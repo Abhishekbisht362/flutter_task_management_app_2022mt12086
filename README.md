@@ -6,10 +6,10 @@ A simple task management app built with Flutter and Parse Server, which allows u
 
 ## Features
 
-- View a list of tasks
-- Add a new task
-- Edit existing tasks
-- Delete tasks
+- Display tasks list
+- Create new task
+- Update existing task(s)
+- Delete existing task(s)
 
 ## Technologies Used
 
@@ -31,11 +31,11 @@ Before you begin, ensure your development environment meets the following requir
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Abhishekbisht362/flutter_task_management_app_2022mt12086.git
    
 2. Navigate to the cloned repository:
 
-cd flutter_assignment_2022mt12086
+cd flutter_task_management_app_2022mt12086
 
 3. Open the project in Visual Studio Code:
 
